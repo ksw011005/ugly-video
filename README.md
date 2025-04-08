@@ -3,9 +3,13 @@ This program distorts and makes you look ugly.
 
 
 Calibration Summary
+
 fx, fy:        432.7390, 431.2396
+
 cx, cy:        476.0615, 288.7602
+
 distortion:    -0.285275, 0.101647, -0.000442, 0.000202, 0.000000
+
 RMSE:          0.000000
 
 
